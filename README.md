@@ -15,7 +15,7 @@
 Get Pc Info:
   * Does not work properly
 
-Phantom Commnad Line:
+Phantom Command Line:
   * Commands:
      * `echo`  Prints something to the screen
      * `add`   Is a simple add command
