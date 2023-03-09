@@ -1,0 +1,22 @@
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.csproj.AssemblyReference.cache
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.AssemblyInfoInputs.cache
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.AssemblyInfo.cs
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.csproj.CoreCompileInputs.cache
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Phantom Terminal.exe
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Phantom Terminal.deps.json
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Phantom Terminal.runtimeconfig.json
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Phantom Terminal.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Phantom Terminal.pdb
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Spectre.Console.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.csproj.CopyComplete
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\refint\Phantom Terminal.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.pdb
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\Phantom Terminal.genruntimeconfig.cache
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\ref\Phantom Terminal.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Spectre.Console.Cli.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PowerWindows\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
