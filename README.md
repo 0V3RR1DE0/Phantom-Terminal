@@ -10,13 +10,26 @@
 
 
 ### Features
-<details><summary>Adds a student to the students list.</summary>
+<details><summary>Fearute List</summary>
 
+#Get Pc Info:
+  Does not work properly
+
+#Phantom Commnad Line:
+  Commands:
+    echo  Prints something to the screen
+    add   Is a simple add command
+    cls   Clears the terminal
+    help  gives list of commands
+    exit  Goes back to the start menu
+
+#Exit:
+  Exits the program
 
 </details>
 
 
-
+-------------------------------------------------------------------------------------------------------------
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
