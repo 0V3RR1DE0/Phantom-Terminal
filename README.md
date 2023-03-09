@@ -11,6 +11,7 @@
 
 ### Features
 <details><summary>  Feature List</summary>
+ 
 Get Pc Info:
   * Does not work properly
 
