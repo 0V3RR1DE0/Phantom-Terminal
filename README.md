@@ -1,6 +1,11 @@
 # Phantom-Terminal
 
 
+## Intoducrion
+This is a windows management tool that is simple to use.
+
+
+---
 
 
 
