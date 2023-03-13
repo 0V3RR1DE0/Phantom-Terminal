@@ -1,0 +1,22 @@
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Phantom Terminal.exe
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Phantom Terminal.deps.json
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Phantom Terminal.runtimeconfig.json
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Phantom Terminal.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Phantom Terminal.pdb
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Spectre.Console.dll
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\Spectre.Console.Cli.dll
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.csproj.AssemblyReference.cache
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.AssemblyInfoInputs.cache
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.AssemblyInfo.cs
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.csproj.CoreCompileInputs.cache
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.csproj.CopyComplete
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.dll
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\refint\Phantom Terminal.dll
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.pdb
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\Phantom Terminal.genruntimeconfig.cache
+E:\repos\Phantom Terminal\Phantom Terminal\obj\Debug\net6.0\win-x64\ref\Phantom Terminal.dll

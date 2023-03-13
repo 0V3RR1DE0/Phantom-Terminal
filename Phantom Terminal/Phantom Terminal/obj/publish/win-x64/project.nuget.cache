@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "u//+Lveq6CpSt9cLxBVDdFnHgXHNtwPfgpiFaE2Ynv3hkUsLvYCMVJtQxmQq9m7XB4ycKcb+35UOV1itlNmPNg==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\7.0.0\\microsoft.extensions.configuration.commandline.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\nuget.commandline\\6.4.0\\nuget.commandline.6.4.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\spectre.console.cli\\0.46.0\\spectre.console.cli.0.46.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Reflection.Metadata.Ecma335;
 using Spectre.Console;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace PhantomTerminal
 {
@@ -18,7 +19,7 @@ namespace PhantomTerminal
             AnsiConsole.Write(new FigletText("Phantom Terminal").Centered().Color(24));
 
 
-            var options = new[] { "Get Pc Info", "Phantom Command Line", "Exit" };
+            var options = new[] { "Get Pc Info", "Phantom Command Line", "Code Injector", "Exit" };
             var prompt = new SelectionPrompt<string>()
                 .Title("Select an option")
                 .AddChoices(options);
@@ -35,8 +36,12 @@ namespace PhantomTerminal
                 case "Phantom Command Line":
                     PhantomCMD();
                     break;
+                case "Code Injector":
+                    Console.WriteLine("Performing action for Option 3");
+                    break;
                 case "Exit":
-                    Exit();
+                    UnregisterAllCommands();
+                    Environment.Exit(1);
                     break;
                 default:
                     Console.WriteLine("Invalid option selected");
@@ -192,21 +197,21 @@ namespace PhantomTerminal
                 back();
             });
 
-            commands.Add("help", (args) =>
-            {
-                Console.WriteLine("echo Allows you to print");
-                Console.WriteLine("add  Allows add numbers together");
-                Console.WriteLine("cls  Clears the console");
-                Console.WriteLine("exit exitst bact to main menu");
-                Console.WriteLine("echo Allows you to print");
-                Console.WriteLine("echo Allows you to print");
-            });
-
             commands.Add("cls", (args) =>
             {
                 Console.Clear();
                 AnsiConsole.Write(new FigletText("Phantom Terminal").Centered().Color(24));
                 Console.WriteLine($"You selected: Phantom Command Line");
+            });
+
+            commands.Add("help", (args) =>
+            {
+                Console.WriteLine("");
+                Console.WriteLine("echo     Allows you to print text");
+                Console.WriteLine("add      Allows you to add numbers together. Example 1+1 = 2");
+                Console.WriteLine("cls      Clears the Terminal");
+                Console.WriteLine("exit     Goes back to the main menu");
+                Console.WriteLine("");
             });
 
         }
@@ -221,12 +226,6 @@ namespace PhantomTerminal
         {
             Console.Clear();
             Main();
-        }
-
-        static void Exit()
-        {
-            commands.Clear();
-            Environment.Exit(1);
         }
     }
 }

@@ -1,0 +1,2 @@
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\publish\Phantom Terminal.pdb
+E:\repos\Phantom Terminal\Phantom Terminal\bin\Debug\net6.0\win-x64\publish\Phantom Terminal.exe

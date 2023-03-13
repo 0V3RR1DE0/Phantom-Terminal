@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PowerWindows\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj": {}
+    "E:\\repos\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj": {}
   },
   "projects": {
-    "D:\\PowerWindows\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj": {
+    "E:\\repos\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PowerWindows\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj",
+        "projectUniqueName": "E:\\repos\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj",
         "projectName": "Phantom Terminal",
-        "projectPath": "D:\\PowerWindows\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj",
-        "packagesPath": "C:\\Users\\Nova\\.nuget\\packages\\",
-        "outputPath": "D:\\PowerWindows\\Phantom Terminal\\Phantom Terminal\\obj\\",
+        "projectPath": "E:\\repos\\Phantom Terminal\\Phantom Terminal\\Phantom Terminal.csproj",
+        "packagesPath": "C:\\Users\\Bok\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\Phantom Terminal\\Phantom Terminal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -79,7 +79,12 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
